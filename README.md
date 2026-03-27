@@ -48,7 +48,7 @@ The results indicate that removing noisy data significantly improves classificat
 - Gaussian Naive Bayes performs exceptionally well on this structured medical dataset  
 
 ---
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
